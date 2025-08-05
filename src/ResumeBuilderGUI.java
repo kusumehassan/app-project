@@ -813,3 +813,4 @@ public class ResumeBuilderGUI extends JFrame {
 // Bug fix 
 // Add save option 
 // Final cleanup 
+// Initial project 
