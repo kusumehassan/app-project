@@ -815,3 +815,4 @@ public class ResumeBuilderGUI extends JFrame {
 // Final cleanup 
 // Initial project 
 // Basic UI layout 
+// Add labels and fields 
