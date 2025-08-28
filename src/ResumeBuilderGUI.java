@@ -819,3 +819,4 @@ public class ResumeBuilderGUI extends JFrame {
 // Add buttons 
 // Button functionality 
 // Validation 
+// Resume preview 
