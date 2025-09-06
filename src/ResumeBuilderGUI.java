@@ -795,3 +795,4 @@ public class ResumeBuilderGUI extends JFrame {
 // Validation 
 // Resume preview 
 // Formatting 
+// Add skills section 
