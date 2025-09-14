@@ -810,3 +810,4 @@ public class ResumeBuilderGUI extends JFrame {
 // Formatting 
 // Add skills section 
 // UI improvement 
+// Bug fix 
